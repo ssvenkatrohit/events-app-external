@@ -32,3 +32,9 @@ git commit -m "My first change"
 git push origin master
 git remote -v
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/ssvenkatrohit/events-app-external.git
+git remote add origin https://github.com/ssvenkatrohit/events-app-external.git
+git remote add origin https://github.com/ssvenkatrohit/events-app-external
+git init
