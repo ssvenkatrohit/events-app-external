@@ -27,3 +27,8 @@ git remote add origin
 git remote add origin https://github.com/ssvenkatrohit/events-app-external
 git push -u origin master
 change
+git add .
+git commit -m "My first change"
+git push origin master
+git remote -v
+git init
